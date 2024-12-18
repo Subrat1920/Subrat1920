@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 🧑‍🦰 Portfolio : [Subrat Mishra](https://mishra-subrat.netlify.app)
 
 
+<!-- GitHub Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat1920&layout=compact&theme=dark)
+
+
 <!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrat1920&show_icons=true&theme=dark)
 
@@ -26,12 +30,10 @@ Here are some ideas to get you started:
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subrat1920&theme=github-dark)
 
-## 🚧 Project Status
+<!-- ## 🚧 Project Status
 
-![Build Status](https://img.shields.io/github/workflow/status/username/repository-name/CI?label=CI&logo=github&style=for-the-badge)
+![Build Status](https://img.shields.io/github/workflow/status/username/repository-name/CI?label=CI&logo=github&style=for-the-badge) -->
 
-<!-- GitHub Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat1920&layout=compact&theme=dark)
 
-<!-- GitHub Trophies -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Subrat1920&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Subrat1920&theme=dark)](https://github.com/ryo-ma/github-profile-trophy) -->
