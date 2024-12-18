@@ -25,3 +25,13 @@ Here are some ideas to get you started:
 
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subrat1920&theme=github-dark)
+
+## 🚧 Project Status
+
+![Build Status](https://img.shields.io/github/workflow/status/username/repository-name/CI?label=CI&logo=github&style=for-the-badge)
+
+<!-- GitHub Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat1920&layout=compact&theme=dark)
+
+<!-- GitHub Trophies -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Subrat1920&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
