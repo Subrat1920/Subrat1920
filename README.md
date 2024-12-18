@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrat1920&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark)
+<!-- GitHub Streak Card -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Subrat1920&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=github-dark)
+<!-- GitHub Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subrat1920&theme=github-dark)
