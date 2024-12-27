@@ -22,17 +22,17 @@ Here are some ideas to get you started:
 
 
 <!-- GitHub Stats Card -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrat1920&show_icons=true&theme=dark) -->
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrat1920&show_icons=true&theme=dark) 
 
-<!-- GitHub Streak Card
+<!-- GitHub Streak Card -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Subrat1920&theme=dark) -->
 
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subrat1920&theme=github-dark)
 
-<!-- ## 🚧 Project Status
+<!-- ## 🚧 Project Status -->
 
-![Build Status](https://img.shields.io/github/workflow/status/username/repository-name/CI?label=CI&logo=github&style=for-the-badge) -->
+![Build Status](https://img.shields.io/github/workflow/status/username/repository-name/CI?label=CI&logo=github&style=for-the-badge) 
 
 
 <!-- GitHub Trophies
