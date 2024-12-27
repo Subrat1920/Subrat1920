@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 
 <!-- GitHub Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat1920&layout=compact&theme=dark)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat1920&layout=compact&theme=dark) -->
 
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat1920&layout=compact&theme=dark) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subrat1920&theme=github-dark) |
 | --- | --- |
 
 
 <!-- GitHub Stats Card -->
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrat1920&show_icons=true&theme=dark) 
+ <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrat1920&show_icons=true&theme=dark) -->
 
 <!-- GitHub Streak Card -->
 <!--  ![GitHub Streak](https://streak-stats.demolab.com/?user=Subrat1920&theme=dark) -->
