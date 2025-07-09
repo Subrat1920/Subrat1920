@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **building data-driven solutions and improving my skills in Python, Machine Learning, and Cloud technologies**.  
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing (NLP), and MLOps** to advance my career in Data Science and AI.  
-- 👯 I’m looking to collaborate on **open-source projects related to data science, machine learning, and cloud-based solutions** to further enhance my skills and contribute to the community.  
-- 🤔 I’m looking for help with **deep learning architectures and deployment strategies** to improve model performance and scalability.  
-- 💬 Ask me about **Python, Django, Machine Learning, Data Science, AWS, and how to integrate these technologies for real-world applications**.  
-- 📫 How to reach me: **You can email me at 3subratmishra1sep@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/subrat-mishra-579a41240/)**.  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I’m a former national basketball player and I enjoy playing guitar in my free time!**  
-- 🧑‍🦰 Portfolio : [Subrat Mishra](https://mishra-subrat.netlify.app)
+- 🔭 Currently on a mission to build impactful, data-driven solutions while deepening my expertise in Data Science, AI, and Cloud Technologies
+- 🌱 Passionately exploring the world of Generative AI and Agentic AI, with a focus on pushing the boundaries of what's possible in intelligent systems.
+- 👯 Always open to collaborating on open-source projects in the realms of data science, machine learning, generative models, and cloud-native applications—if it’s solving real-world problems, I’m in!
+- 🤖 Seeking to master advanced deep learning architectures and deployment strategies to deliver scalable, high-performing AI solutions.
+- 💬 Love geeking out over Generative AI, LLMs, MLOps, AWS, and end-to-end AI product development—feel free to start a conversation!
+- 📫 Reach out: 3subratmishra1sep@gmail.com or connect with me on LinkedIn
+- 😄 Pronouns: He/Him
+- 🏀 🎸 Off the clock? I’m either sinking 3-pointers (I’m a former national basketball player) or strumming tunes on my guitar.
+- 🌐 Portfolio: mishra-subrat.netlify.app
 
 
 <!-- GitHub Top Languages -->
