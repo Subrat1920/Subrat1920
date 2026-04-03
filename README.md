@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 Always open to collaborating on open-source projects in the realms of data science, machine learning, generative models, and cloud-native applications—if it’s solving real-world problems, I’m in!
 - 🤖 Seeking to master advanced deep learning architectures and deployment strategies to deliver scalable, high-performing AI solutions.
 - 💬 Love geeking out over Generative AI, LLMs, MLOps, AWS, and end-to-end AI product development—feel free to start a conversation!
-- 📫 Reach out: 3subratmishra1sep@gmail.com or connect with me on LinkedIn
+- 📫 Reach out: mishra.subrat.1920@gmail.com or connect with me on LinkedIn
 - 😄 Pronouns: He/Him
 - 🏀 🎸 Off the clock? I’m either sinking 3-pointers (I’m a former national basketball player) or strumming tunes on my guitar.
 - 🌐 Portfolio: mishra-subrat.netlify.app
