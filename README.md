@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 Reach out: mishra.subrat.1920@gmail.com or connect with me on LinkedIn
 - 😄 Pronouns: He/Him
 - 🏀 🎸 Off the clock? I’m either sinking 3-pointers (I’m a former national basketball player) or strumming tunes on my guitar.
-- 🌐 Portfolio: mishra-subrat.netlify.app
+
 
 
 <!-- GitHub Top Languages -->
